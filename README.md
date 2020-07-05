@@ -3,12 +3,12 @@
 [![Build Status](https://travis-ci.org/hajimehoshi/ebiten.svg?branch=master)](https://travis-ci.org/hajimehoshi/ebiten)
 [![Go Report Card](https://goreportcard.com/badge/github.com/hajimehoshi/ebiten)](https://goreportcard.com/report/github.com/hajimehoshi/ebiten)
 
-**A dead simple 2D game library for Go**
+**一个简单的2D游戏库**
 
-Ebiten is an open source game library for the Go programming language. Ebiten's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms.
+Ebiten是一个基于Go的开源游戏库。Ebiten的简单API允许您快速轻松地开发跨平台的2D游戏。
 
-* [Website (ebiten.org)](https://ebiten.org)
-* [API Reference](https://pkg.go.dev/github.com/hajimehoshi/ebiten)
+* [官方主页 (ebiten.org)](https://ebiten.org)
+* [API 手册](https://pkg.go.dev/github.com/hajimehoshi/ebiten)
 * [Cheat Sheet](https://ebiten.org/documents/cheatsheet.html)
 
 ![Overview](https://ebiten.org/images/overview1.11.png)
